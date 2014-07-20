@@ -167,7 +167,7 @@ header #logo img {
   color: #4183C4;
 }
 header h6 {
-  margin-top:0.5em;
+  margin: 0px;
 }
 /* Posts */
 article span.post-stamp {
