@@ -163,6 +163,9 @@ header #logo img {
   font-size:1.05em;
   line-height:1.9em;
 }
+.fa:hover {
+  color: #4183C4;
+}
 header h6 {
   margin-top:0.5em;
 }
