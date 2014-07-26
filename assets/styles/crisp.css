@@ -82,7 +82,7 @@ img, iframe {
 a {
   font-weight:700;
   text-decoration:none;
-  color: #4183C4; /* Change Link Color */
+  color: #1E6AB4; /* Change Link Color */
 }
 a:hover {
   text-decoration:underline;
